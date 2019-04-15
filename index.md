@@ -1,12 +1,12 @@
-<!-- <!DOCTYPE html><html lang="en" class=""> -->
-<!-- <head> -->
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Scott Jespersen</title>
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="fonts/proximanova.css" />
-  <link rel="stylesheet" href="fonts/minion.css" />
-<!-- </head> -->
-<!-- <body> -->
+</head>
+<body>
 <div class="wrap">
 
 # Scott Jespersen
