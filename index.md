@@ -22,7 +22,8 @@ Some areas of interest include computational modeling and decarbonization.
 
 ## Recent work
 
-* Dec 2018: A [map](https://bitsandwatts.stanford.edu/widap) of fossil generation in the Western Interconnection, as part of the Bits and Watts-supported Western Interconnection Data Analytics Project (WIDAP).
+* Jan 2019: A [dashboard](http://web.stanford.edu/group/widap/unit_level_dashboard.html) on unit-level emissions from fossil-fired plants in the Western Interconnection, as part of the Bits and Watts-supported [Western Interconnection Data Analytics Project (WIDAP)](https://bitsandwatts.stanford.edu/bits-watts-research-project-showcase).
+* Dec 2018: A [map](https://bitsandwatts.stanford.edu/widap) of fossil generation in the Western Interconnection, also for [WIDAP](https://bitsandwatts.stanford.edu/bits-watts-research-project-showcase).
 
 ## Courses taken
 
