@@ -1,0 +1,26 @@
+{
+  "name": "sdjespersen.github.io",
+  "version": "1.0.0",
+  "description": "sdjespersen's personal web content",
+  "main": "index.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdjespersen/sdjespersen.github.io.git"
+  },
+  "author": "Scott Jespersen",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/sdjespersen/sdjespersen.github.io/issues"
+  },
+  "homepage": "https://github.com/sdjespersen/sdjespersen.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "markdown-it": "^8.4.2"
+  },
+  "scripts": {
+    "build": "npx markdown-it index.md -o index.html"
+  }
+}

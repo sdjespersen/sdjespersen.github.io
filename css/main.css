@@ -1,0 +1,11 @@
+body {
+  font-family: "Proxima Nova", "Helvetica", sans-serif;
+}
+h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+  color: #444;
+}
+.wrap {
+  max-width: 800px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
