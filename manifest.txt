@@ -1,0 +1,5 @@
+css/
+fonts/
+*.pdf
+*.md
+*.html
