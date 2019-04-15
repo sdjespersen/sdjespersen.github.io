@@ -21,6 +21,6 @@
     "markdown-it": "^8.4.2"
   },
   "scripts": {
-    "build": "npx markdown-it index.md -o index.html"
+    "build": "markdown-it index.md -o index.html"
   }
 }
