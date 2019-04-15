@@ -11,7 +11,7 @@
 
 # Scott Jespersen
 
-M.S. student in [ICME](https://icme.stanford.edu/), admitted Autumn 2018.
+M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admitted Autumn 2018.
 
 Some areas of interest include computational modeling and decarbonization.
 
