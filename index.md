@@ -15,7 +15,7 @@ M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admit
 
 Some areas of interest include computational modeling and decarbonization.
 
-* [R&eacute;sum&eacute;](sjespers_resume_jan2019.pdf)
+* [R&eacute;sum&eacute;](assets/sjespers_resume_jan2019.pdf)
 * [LinkedIn](https://www.linkedin.com/in/scottjespersen/)
 * [Personal website](http://www.scottjespersen.com/) (music, etc.)
 * [GitHub](https://github.com/sdjespersen/)
