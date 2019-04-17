@@ -27,6 +27,12 @@ Some areas of interest include computational modeling and decarbonization.
 
 ## Courses taken
 
+### Spring 2019
+
+* [CS221](http://cs221.stanford.edu/): Artificial Intelligence: Principles and Techniques
+* CME298: Basic Probability and Stochastic Processes with Engineering Applications
+* CEE276B: 100% Clean, Renewable Energy and Storage for Everything
+
 ### Winter 2019
 
 * [CME212](https://github.com/cme212/course): Advanced Programming for Scientists and Engineers
