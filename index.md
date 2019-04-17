@@ -29,7 +29,7 @@ Some areas of interest include computational modeling and decarbonization.
 
 ### Spring 2019
 
-* [CS221](http://cs221.stanford.edu/): Artificial Intelligence: Principles and Techniques
+* [CS221](http://web.stanford.edu/class/cs221/): Artificial Intelligence: Principles and Techniques
 * CME298: Basic Probability and Stochastic Processes with Engineering Applications
 * CEE276B: 100% Clean, Renewable Energy and Storage for Everything
 
