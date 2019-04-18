@@ -5,8 +5,14 @@
   <title>Scott Jespersen</title>
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="fonts/proximanova.css" />
+  <link rel="stylesheet" href="fonts/lato.css" />
 </head>
 <body>
+<div id="nav-header">
+<a href="index.html">Home</a>
+<a href="music.html">Music</a>
+</div>
+
 <div class="wrap">
 
 # Scott Jespersen
