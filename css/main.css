@@ -8,11 +8,11 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li {
 }
 .wrap {
   max-width: 800px;
-  padding: 0 30px;
+  padding: 30px 30px;
   margin: 0 auto;
 }
 #nav-header {
-  position: sticky;
+  position: fixed;
   top: 0;
   padding: 8px 8px;
   width: 100%;
@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li {
 }
 #nav-header > a {
   margin: 0 20px;
-  color: #444;
+  color: #067;
   font-family: "Lato", "Helvetica", sans-serif;
   text-decoration: none;
   transition: text-decoration 1s;
