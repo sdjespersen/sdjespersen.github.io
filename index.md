@@ -17,9 +17,7 @@
 
 # Scott Jespersen
 
-M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admitted Autumn 2018.
-
-Some areas of interest include computational modeling and decarbonization.
+M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admitted Autumn 2018. I am interested in computational modeling, decarbonization, and music.
 
 * [R&eacute;sum&eacute;](assets/sjespers_resume_jan2019.pdf)
 * [LinkedIn](https://www.linkedin.com/in/scottjespersen/)
@@ -30,27 +28,6 @@ Some areas of interest include computational modeling and decarbonization.
 
 * Jan 2019: A [dashboard](http://web.stanford.edu/group/widap/unit_level_dashboard.html) on unit-level emissions from fossil-fired plants in the Western Interconnection, as part of the Bits and Watts-supported [Western Interconnection Data Analytics Project (WIDAP)](https://bitsandwatts.stanford.edu/bits-watts-research-project-showcase).
 * Dec 2018: A [map](https://bitsandwatts.stanford.edu/widap) of fossil generation in the Western Interconnection, also for [WIDAP](https://bitsandwatts.stanford.edu/bits-watts-research-project-showcase).
-
-## Courses taken
-
-### Spring 2019
-
-* [CS221](http://web.stanford.edu/class/cs221/): Artificial Intelligence: Principles and Techniques
-* CME298: Basic Probability and Stochastic Processes with Engineering Applications
-* CEE276B: 100% Clean, Renewable Energy and Storage for Everything
-
-### Winter 2019
-
-* [CME212](https://github.com/cme212/course): Advanced Programming for Scientists and Engineers
-* CME305: Discrete Mathematics and Algorithms
-* [CEE207R](https://web.stanford.edu/class/cee207r/): E^3: Extreme Energy Efficiency (@ [Rocky Mountain Institute](https://www.rmi.org/))
-
-### Autumn 2018
-
-* CME302: Numerical Linear Algebra
-* [AA228](https://web.stanford.edu/class/aa228/cgi-bin/wp/): Decision Making Under Uncertainty
-* EE293: Energy Storage and Conversion
-
 </div>
 </body>
 </html>

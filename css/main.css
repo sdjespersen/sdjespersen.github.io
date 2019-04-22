@@ -6,8 +6,11 @@ body {
 h1, h2, h3, h4, h5, h6, p, ul, ol, li {
   color: #444;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Lato", sans-serif;
+}
 .wrap {
-  max-width: 800px;
+  max-width: 640px;
   padding: 30px 30px;
   margin: 0 auto;
 }
@@ -21,14 +24,15 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li {
   border-bottom: 1px solid #e2e2e2;
   box-shadow: rgba(0, 0, 0, 0.08) 0 0 5px 1px;
   display: flex;
+  justify-content: center;
 }
 #nav-header > a {
   margin: 0 20px;
-  color: #006677;
+  color: #005566;
   font-family: "Lato", "Helvetica", sans-serif;
   text-decoration: none;
   transition: text-decoration 1s;
-  font-weight: bold;
+  letter-spacing: 0.1rem;
 }
 #nav-header > a:hover {
   text-decoration: underline;
