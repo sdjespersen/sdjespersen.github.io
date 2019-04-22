@@ -54,6 +54,12 @@ a:hover {
 .main-content {
   max-width: 640px;
 }
+.float-right {
+  float: right;
+}
+.headshot {
+  padding: 12px;
+}
 /* Code formatting styles */
 pre, code {
   border: 1px solid #d5d5e9;

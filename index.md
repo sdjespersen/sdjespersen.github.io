@@ -2,11 +2,13 @@
 layout: default
 ---
 
+<img alt="Scott Jespersen headshot" src="assets/img/swissalpsheadshotsm.png" class="headshot float-right" />
+
 # Scott Jespersen
 
-M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admitted Autumn 2018.
+M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admitted Fall 2018.
 
-I am interested in working towards a zero-carbon energy future, and have a background in and affinity for software engineering, mathematical modeling, data analysis, and more. I am also a pianist and composer in a [jazz quintet](http://www.nebulajazz.com).
+I am interested in working towards a zero-carbon energy future, and have a background in and affinity for software engineering, mathematical modeling, data analysis, and more. I am also a pianist and composer in a [jazz quintet](https://www.nebulajazz.com).
 
 [R&eacute;sum&eacute;](assets/sjespers_resume_jan2019.pdf) / [LinkedIn](https://www.linkedin.com/in/scottjespersen/) / [GitHub](https://github.com/sdjespersen/)
 
