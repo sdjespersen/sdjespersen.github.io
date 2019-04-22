@@ -2,38 +2,52 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Proxima Nova", "Helvetica", sans-serif;
-}
-h1, h2, h3, h4, h5, h6, p, ul, ol, li {
-  color: #444;
+  color: #333;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lato", sans-serif;
+  font-weight: 400;
 }
-.wrap {
+a, a:visited {
+  color: #079;
+  text-decoration: none;
+}
+a:hover {
+  color: #056;
+  text-decoration: underline;
+}
+.main-content a:hover {
+  text-decoration: underline;
+}
+.body-wrap {
   max-width: 640px;
-  padding: 30px 30px;
   margin: 0 auto;
 }
-#nav-header {
-  position: fixed;
-  top: 0;
-  padding: 8px 8px;
-  width: 100%;
+.site-header {
+  max-width: 640px;
   text-transform: uppercase;
   background: rgba(255, 255, 255, 0.9);
-  border-bottom: 1px solid #e2e2e2;
-  box-shadow: rgba(0, 0, 0, 0.08) 0 0 5px 1px;
   display: flex;
   justify-content: center;
 }
-#nav-header > a {
+.site-nav {
+  padding-top: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e2e2e2;
+}
+.site-nav > a {
   margin: 0 20px;
-  color: #005566;
+  color: #444444;
   font-family: "Lato", "Helvetica", sans-serif;
-  text-decoration: none;
-  transition: text-decoration 1s;
   letter-spacing: 0.1rem;
 }
-#nav-header > a:hover {
-  text-decoration: underline;
+.site-nav > a:hover {
+  color: #005566;
 }
+.site-footer {
+  display: flex;
+  justify-content: center;
+}
+.main-content {
+  max-width: 640px;
+}
+
