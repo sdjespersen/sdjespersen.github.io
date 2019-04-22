@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img alt="Scott Jespersen headshot" src="assets/img/swissalpsheadshotsm.png" class="headshot float-right" />
+![Scott Jespersen headshot](assets/img/swissalpsheadshotsm.png){: .headshot .float-right}
 
 # Scott Jespersen
 
