@@ -4,12 +4,11 @@ layout: default
 
 # Scott Jespersen
 
-M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admitted Autumn 2018. I am interested in working towards a zero-carbon energy future, and have a background in and affinity for software engineering, mathematical modeling, data analysis, machine learning, and the like. I am also a pianist and composer in a [jazz quintet](http://www.nebulajazz.com).
+M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admitted Autumn 2018.
 
-* [R&eacute;sum&eacute;](assets/sjespers_resume_jan2019.pdf)
-* [LinkedIn](https://www.linkedin.com/in/scottjespersen/)
-* [Personal website](http://www.scottjespersen.com/) (music, etc.)
-* [GitHub](https://github.com/sdjespersen/)
+I am interested in working towards a zero-carbon energy future, and have a background in and affinity for software engineering, mathematical modeling, data analysis, and more. I am also a pianist and composer in a [jazz quintet](http://www.nebulajazz.com).
+
+[R&eacute;sum&eacute;](assets/sjespers_resume_jan2019.pdf) / [LinkedIn](https://www.linkedin.com/in/scottjespersen/) / [GitHub](https://github.com/sdjespersen/)
 
 ## Recent work
 
