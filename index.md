@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 
 ![Scott Jespersen headshot](assets/img/swissalpsheadshotsm.png){: .headshot .float-right}
