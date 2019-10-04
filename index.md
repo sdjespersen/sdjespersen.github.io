@@ -13,6 +13,10 @@ I am interested in working towards a zero-carbon energy future, and have a backg
 
 [R&eacute;sum&eacute;](assets/sjespers_resume_jan2019.pdf) / [LinkedIn](https://www.linkedin.com/in/scottjespersen/) / [GitHub](https://github.com/sdjespersen/)
 
+## Teaching
+
+* Fall 2019: [MS&E 231](https://5harad.com/mse231/): Introduction to Computational Social Science
+
 ## Recent work
 
 * Jan 2019: A [dashboard](http://web.stanford.edu/group/widap/unit_level_dashboard.html) on unit-level emissions from fossil-fired plants in the Western Interconnection, as part of the Bits and Watts-supported [Western Interconnection Data Analytics Project (WIDAP)](https://bitsandwatts.stanford.edu/bits-watts-research-project-showcase).
