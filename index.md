@@ -15,7 +15,8 @@ I am interested in working towards a zero-carbon energy future, and have a backg
 
 ## Teaching
 
-* Fall 2019: [MS&E 231](https://5harad.com/mse231/): Introduction to Computational Social Science
+* Winter 2020: [CME 212](https://github.com/cme212/course), Advanced Software Development for Scientists and Engineers
+* Fall 2019: [MS&E 231](https://5harad.com/mse231/), Introduction to Computational Social Science
 
 ## Recent work
 
