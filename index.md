@@ -11,7 +11,7 @@ M.S. student in [ICME](https://icme.stanford.edu/) at Stanford University, admit
 
 I am interested in working towards a more harmonious relationship between humans and the rest of the natural world, especially as it pertains to energy. I have a background in mathematics, software, and data science. I am also a pianist and composer in a [jazz quintet](https://www.nebulajazz.com).
 
-[R&eacute;sum&eacute;](assets/sjespers_resume_jan2019.pdf) / [LinkedIn](https://www.linkedin.com/in/scottjespersen/) / [GitHub](https://github.com/sdjespersen/)
+[LinkedIn](https://www.linkedin.com/in/scottjespersen/) / [GitHub](https://github.com/sdjespersen/)
 
 ## Teaching
 
