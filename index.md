@@ -27,12 +27,14 @@ University.
 
 ## Recent work
 
-* Jan 2019: A
-[dashboard](http://web.stanford.edu/group/widap/unit_level_dashboard.html) on
-unit-level emissions from fossil-fired plants in the Western Interconnection, as
-part of the Bits and Watts-supported
-[Western Interconnection Data Analytics Project (WIDAP)][1].
+* Jun 2020: An [energy ecosystem map][2] of Bay Area companies involved in
+  energy, for the American Energy Society.
+* Jan 2019: A [dashboard][3] on unit-level emissions from fossil-fired plants in
+  the Western Interconnection, as part of the Bits and Watts-supported
+  [Western Interconnection Data Analytics Project (WIDAP)][1].
 * Dec 2018: A [map](http://web.stanford.edu/group/widap/powerplant_map.html)
-of fossil generation in the Western Interconnection, also for [WIDAP][1].
+  of fossil generation in the Western Interconnection, also for [WIDAP][1].
 
 [1]: https://energy.stanford.edu/bitsandwatts/western-interconnection-data-analytics-project-widap
+[2]: https://energy-society.github.io/energy-industry-maps/
+[3]: http://web.stanford.edu/group/widap/unit_level_dashboard.html
