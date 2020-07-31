@@ -36,5 +36,5 @@ University.
   of fossil generation in the Western Interconnection, also for [WIDAP][1].
 
 [1]: https://energy.stanford.edu/bitsandwatts/western-interconnection-data-analytics-project-widap
-[2]: https://energy-society.github.io/energy-industry-maps/
+[2]: https://energymaps.energysociety.org/
 [3]: http://web.stanford.edu/group/widap/unit_level_dashboard.html
