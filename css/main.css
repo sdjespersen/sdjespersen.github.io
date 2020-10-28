@@ -73,6 +73,7 @@ a:hover {
 }
 .site-nav > a:hover {
   color: #005566;
+  text-decoration: none;
 }
 .site-footer {
   display: flex;
