@@ -12,8 +12,8 @@ and the rest of the natural world, especially as it pertains to energy. I have a
 background in mathematics, software, and data science. I am also a pianist and
 composer in a [jazz quintet](https://www.nebulajazz.com).
 
-Software engineer at [Myst](https://myst.ai/). Recent (2020) M.S. graduate of
-[ICME](https://icme.stanford.edu/) at Stanford University.
+Software engineer at [Snowflake](https://www.snowflake.com/en/) and recently at [Myst](https://myst.ai/). 2020 M.S.
+graduate of [ICME](https://icme.stanford.edu/) at Stanford University.
 
 [LinkedIn](https://www.linkedin.com/in/scottjespersen/) /
 [GitHub](https://github.com/sdjespersen/)
