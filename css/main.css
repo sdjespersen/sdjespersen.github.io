@@ -34,6 +34,9 @@ body {
 h1 {
   font-size: 1.8rem;
 }
+h2 {
+  font-size: 1.4rem;
+}
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
@@ -44,6 +47,9 @@ a, a:visited {
 a:hover {
   color: #056;
   text-decoration: underline;
+}
+figcaption {
+  text-align: center;
 }
 .main-content a:hover {
   text-decoration: underline;
@@ -80,7 +86,7 @@ a:hover {
   justify-content: center;
 }
 .main-content {
-  max-width: 640px;
+  max-width: 800px;
   padding: 1rem 0;
 }
 .float-right {
