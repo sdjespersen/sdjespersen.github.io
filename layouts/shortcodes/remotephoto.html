@@ -1,6 +1,5 @@
 {{ $src := .Get "src" }}
-{{ $img := resources.GetRemote $src }}
-{{ $img := ($img.Resize "600x") }}
+{{ $img := ((resources.GetRemote $src).Resize "600x") }}
 {{ $caption := .Get "caption" }}
 
 <figure>
