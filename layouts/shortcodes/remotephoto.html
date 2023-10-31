@@ -1,0 +1,11 @@
+{{ $src := .Get "src" }}
+{{ $img := resources.GetRemote $src }}
+{{ $img := ($img.Resize "600x") }}
+{{ $caption := .Get "caption" }}
+
+<figure>
+<a href="{{ $src }}" target="blank">
+<img src="{{ $img.RelPermalink }}" width="100%" loading="lazy" />
+</a>
+<figcaption>{{ $caption }}</figcaption>
+</figure>

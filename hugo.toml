@@ -1,0 +1,4 @@
+baseURL = 'https://www.scottjespersen.com/'
+languageCode = 'en-us'
+title = 'Scott Jespersen'
+theme = 'sj'
