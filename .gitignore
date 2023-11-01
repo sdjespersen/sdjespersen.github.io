@@ -1,5 +1,5 @@
 .DS_Store
 /scripts/
 /public/
+/resources/
 .hugo_build.lock
-/resources/_gen/assets/
