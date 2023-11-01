@@ -5,7 +5,7 @@ layout = 'post'
 aliases = ['/trip-reports/sierra-solo-climbs-sep-2023.html']
 +++
 
-_Note: Clicking on any photo opens the large version in a new tab. To view the entire photo album, click
+_Note: Click on any photo to open a slideshow. To view the entire photo album, click
 [here](https://photos.app.goo.gl/w2mA7uhScovS7VxJ9)._
 
 ## Monday, Sep 11: Tuolumne Triple Crown attempt
