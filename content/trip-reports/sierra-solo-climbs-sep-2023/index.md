@@ -2,6 +2,7 @@
 title = 'Sierra Solo Climbs, September 2023'
 date = 2023-09-23T19:18:58-07:00
 layout = 'post'
+aliases = ['/trip-reports/sierra-solo-climbs-sep-2023.html']
 +++
 
 _Note: Clicking on any photo opens the large version in a new tab. To view the entire photo album, click
