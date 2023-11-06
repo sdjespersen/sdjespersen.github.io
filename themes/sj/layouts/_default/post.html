@@ -7,10 +7,4 @@
 
   {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-
-  {{ $lightboxJs := resources.Get "/js/simple-lightbox.min.js" | fingerprint }}
-  <script type="text/javascript" src="{{ $lightboxJs.RelPermalink }}"></script>
-  <script type="text/javascript">
-    new SimpleLightbox({elements: 'a.lightbox-img'});
-  </script>
 {{ end }}

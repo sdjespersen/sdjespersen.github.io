@@ -7,7 +7,3 @@
 {{ $sass := resources.Get "css/main.scss" }}
 {{ $style := $sass | resources.ToCSS $options | resources.Fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" integrity="{{ $style.Data.Integrity }}" />
-
-{{ $lightboxCss := resources.Get "css/simple-lightbox.css" }}
-{{ $lightboxStyle := $lightboxCss | minify | fingerprint "sha512" }}
-<link rel="stylesheet" href="{{ $lightboxStyle.RelPermalink }}" integrity="{{ $lightboxStyle.Data.Integrity }}" />
