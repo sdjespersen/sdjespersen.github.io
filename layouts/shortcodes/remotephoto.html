@@ -1,36 +1,34 @@
-{{ $src := .Get "src" }}
-{{ $caption := .Get "caption" }}
-{{ $resizeParams := "600x" }}
+{{- $src := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+{{- $resizeParams := "600x" -}}
 
 <!--There is nothing in this shortcode that makes the processed images available in this poor man's "cache". We require
 some external step to do so. The fallback is the usual way of doing things, which requires a remote fetch unless the
 (full resolution) image is already cached locally.-->
-{{ $medCacheKey := printf "%s_%s" (sha256 $src) $resizeParams }}
-{{ $medImgLoc := printf "images/%s.jpg" $medCacheKey }}
+{{- $medCacheKey := printf "%s_%s" (sha256 $src) $resizeParams -}}
+{{- $medImgLoc := printf "images/%s.jpg" $medCacheKey -}}
 
-{{ $lqipCacheKey := printf "%s_lqip" (sha256 $src) }}
-{{ $lqipImgLoc := printf "images/%s.jpg" $lqipCacheKey }}
+{{- $lqipCacheKey := printf "%s_lqip" (sha256 $src) -}}
+{{- $lqipImgLoc := printf "images/%s.jpg" $lqipCacheKey -}}
 
-{{ $img := .Page.Resources.GetMatch $medImgLoc }}
-{{ $lqip := .Page.Resources.GetMatch $lqipImgLoc }}
+{{- $img := .Page.Resources.GetMatch $medImgLoc -}}
+{{- $lqip := .Page.Resources.GetMatch $lqipImgLoc -}}
 
 <!--Resource not processed into final form yet. Fetch remote (or from Hugo cache) and process.-->
-{{ if or (not $img) (not $lqip) }}
-  {{ with resources.GetRemote $src }}
-      {{ $img = .Resize $resizeParams }}
-      {{ $lqip = .Resize "20x jpg" }}
-  {{ end }}
-{{ end }}
+{{- if or (not $img) (not $lqip) -}}
+  {{- with resources.GetRemote $src -}}
+      {{- $img = .Resize $resizeParams -}}
+      {{- $lqip = .Resize "20x jpg" -}}
+  {{- end -}}
+{{- end -}}
 
-{{ $lqipStyle := printf "background: url(data:image/jpeg;base64,%s); background-size: cover; background-repeat: no-repeat;" ($lqip.Content | base64Encode) | safeCSS }}
+{{- $lqipStyle := printf "background: url(data:image/jpeg;base64,%s); background-size: cover; background-repeat: no-repeat;" ($lqip.Content | base64Encode) | safeCSS -}}
 
 <!--Uncomment if you need to print out the mapping from cache to page resource-->
 <!-- warnf "cp resources/_gen/images%s content/%s%s" $img.RelPermalink .Page.File.Dir $medImgLoc -->
 <!-- warnf "cp resources/_gen/images%s content/%s%s" $lqip.RelPermalink .Page.File.Dir $lqipImgLoc -->
 
-<figure>
-<a href="{{ $src }}" title="{{ $caption }}" data-type="image" class="lightbox-img">
-  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" loading="lazy" class="trip-report" style="{{ $lqipStyle }}" />
-</a>
+<figure class="lightbox-enabled">
+<img src="{{ $img.RelPermalink }}" fullsize-src="{{ $src }}" width="{{ $img.Width }}" height="{{ $img.Height }}" loading="lazy" class="full-width" style="{{ $lqipStyle }}" />
 <figcaption>{{ $caption }}</figcaption>
 </figure>

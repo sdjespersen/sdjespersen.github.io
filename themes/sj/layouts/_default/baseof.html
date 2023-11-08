@@ -10,5 +10,68 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+  <div id="lightbox-container" class="lightbox-container-inactive"></div>
+  <script type="module">
+    function closeLightbox(e) {
+      lbContainer.classList.replace("lightbox-container-active", "lightbox-container-inactive");
+      lbContainer.innerHTML = "";
+    }
+
+    // Phrased as a closure so that we have the enclosing <figure> element, as well as the lightbox container and
+    // overlay elements, already bound in scope.
+    function lightboxOpener(figure, lbContainer, lbOverlay) {
+      var caption;
+      var img;
+      for (const child of figure.children) {
+        if (child.nodeName.toLowerCase() === "img") {
+          img = child;
+        } else if (child.nodeName.toLowerCase() === "figcaption") {
+          caption = child;
+        }
+      }
+      const srcset = img.getAttribute("src") + ' 600w, ' + img.getAttribute("fullsize-src") + ' 1024w';
+      const lbContent = '' +
+        '<div class="lightbox-content">' +
+          '<div class="lightbox-img-caption-wrapper">' +
+          '<img srcset="' + srcset + '" sizes="(max-width: 800px) 600px, 1024px" src="' + img.getAttribute("src") + '" />' +
+          '<div class="lightbox-caption">' + caption.innerHTML + '</div>' +
+          '</div>' +
+        '</div>';
+
+      function openLightbox(e) {
+        lbContainer.innerHTML = lbContent;
+        lbContainer.classList.replace("lightbox-container-inactive", "lightbox-container-active");
+      }
+
+      return openLightbox;
+    }
+
+    const lbContainer = document.getElementById("lightbox-container");
+    const lbOverlay = document.getElementById("lightbox-overlay");
+
+    for (const fig of document.querySelectorAll("figure.lightbox-enabled")) {
+      for (const child of fig.children) {
+        if (child.nodeName.toLowerCase() === "img") {
+          child.addEventListener("click", lightboxOpener(fig, lbContainer, lbOverlay));
+        }
+      }
+    };
+
+    lbContainer.addEventListener("click", closeLightbox);
+    window.addEventListener(
+      "keydown",
+      (event) => {
+        if (event.defaultPrevented) {
+          return; // Do nothing if the event was already processed
+        }
+        if (event.key === "Escape") {
+          closeLightbox(event);
+        }
+        // Cancel the default action to avoid it being handled twice
+        event.preventDefault();
+      },
+      true,
+    );
+</script>
 </body>
 </html>
