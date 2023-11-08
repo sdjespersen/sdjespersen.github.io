@@ -179,7 +179,11 @@ div.embedded-vimeo-portrait {
 }
 .lightbox-img-caption-wrapper {
   max-height: 100%;
-  position: relative;
+  min-width: 50vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
 }
 .lightbox-content img {
   max-height: 100vh;
