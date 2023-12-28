@@ -1,8 +1,10 @@
 +++
 title = 'Music'
 +++
-I've played and written music across numerous genes and in many different settings: modern jazz in small combos; celtic,
-folk, and bluegrass in small acoustic bands; choir, a cappella, worship band, pop and rock covers, what have you.
+I've played and written music across numerous genes and in many different settings, from modern jazz in a quintet to
+Celtic and traditional Irish fiddle for contra dances. I've fiddled in a bluegrass band and in symphony orchestras,
+played in the pit for musicals, sung in several choirs and directed college a cappella, covered just about every
+instrument in the worship band, and released a few albums of original instrumental compositions.
 
 In recent years, i played piano and wrote tunes for a jazz quintet, Nebula. Some recordings we made:
 
