@@ -7,6 +7,19 @@ In recent years, i played piano and wrote tunes for a jazz quintet, Nebula. Some
 [![Nebula: Return to Pink House (Live)](/images/nebulareturntopinkhouse.jpg)](https://open.spotify.com/album/1QTlyQZj7c2mp470k7Qped) 
 [![Nebula: Live at Villa St](/images/nebulaliveatvillast.jpg)](https://open.spotify.com/album/0asrI1C92Qj6iF6EHfFxnH)
 
+We played several live shows, but there aren't that many videos out there. The ones we do have are below.
+
+One of my compositions, Alone in the Cathedral, taken during a rehearsal in 2016 or 2017:
+
+{{< youtube id="b-hSZ6uTWGg" >}}
+
+A composition called Transparence, by our saxophonist Ryan Proch, from a 2017 show at Cafe Pink House in Saratoga, CA:
+
+{{< youtube M8ZS33m5LD8 >}}
+
+Cell phone footage of an entire live show from October 2018, again at Cafe Pink House, can be seen
+[here](https://www.facebook.com/chandra.rajagopal/videos/10106568408074395/) (couldn't be embedded, sorry).
+
 I also played piano, fiddle, and cajon for a contra dance band, [Pepperjack](https://www.facebook.com/pepperjackcontra/). We made an album in 2021:
 
 [![Pepperjack](/images/pepperjack.jpg)](https://open.spotify.com/album/71BNkiymy591tBxtmb7tQk)
