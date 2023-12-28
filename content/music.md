@@ -1,6 +1,9 @@
 +++
 title = 'Music'
 +++
+I've played and written music across numerous genes and in many different settings: modern jazz in small combos; celtic,
+folk, and bluegrass in small acoustic bands; choir, a cappella, worship band, pop and rock covers, what have you.
+
 In recent years, i played piano and wrote tunes for a jazz quintet, Nebula. Some recordings we made:
 
 [![Nebula: The More Things Change](/images/nebulathemorethingschange.jpg)](https://open.spotify.com/album/0Ej2oN3SlpD1ivNHXmDSNu) 
@@ -24,8 +27,13 @@ I also played piano, fiddle, and cajon for a contra dance band, [Pepperjack](htt
 
 [![Pepperjack](/images/pepperjack.jpg)](https://open.spotify.com/album/71BNkiymy591tBxtmb7tQk)
 
-There is also some video evidence of us playing [at Valley of the Moon fiddle camp in 2018](https://www.youtube.com/watch?v=3G5IXcXC5lg) and
-[at the Silicon Valley Irish Fleadh](https://www.youtube.com/watch?v=1ywr0cNBv7w) the same year.
+There is also some video evidence of us playing at Valley of the Moon fiddle camp in 2018:
+
+{{< youtube 3G5IXcXC5lg >}}
+
+and at the Silicon Valley Irish Fleadh the same year:
+
+{{< youtube 1ywr0cNBv7w >}}
 
 Way back in 2012, i wrote, recorded, and produced an album of my own compositions:
 
