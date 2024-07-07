@@ -2,11 +2,13 @@
 title = 'About'
 +++
 
-![Scott Jespersen headshot >](/images/swissalpsheadshotsm.png)
+![Scott Jespersen headshot >](/images/weddingjamcropped.png)
 
 # Scott Jespersen
 
 Pianist, violinist, composer, multi-instrumentalist, lover of the outdoors, adherent of degrowth.
+
+Director of Music Ministries at [Epworth UMC](https://www.epworthberkeley.org/).
 
 Former software engineer at Snowflake / [Myst](https://myst.ai/) / Google.
 
