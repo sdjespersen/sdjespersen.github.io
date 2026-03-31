@@ -6,6 +6,10 @@ Celtic and traditional Irish fiddle for contra dances. I've fiddled in a bluegra
 played in the pit for musicals, sung in several choirs and directed college a cappella, covered just about every
 instrument in the worship band, and released a few albums of original instrumental compositions.
 
+A release from 2024:
+
+{{< youtube id="aDUthicVTj4" >}}
+
 In recent years, i played piano and wrote tunes for a jazz quintet, Nebula. Some recordings we made:
 
 [![Nebula: The More Things Change](/images/nebulathemorethingschange.jpg)](https://open.spotify.com/album/0Ej2oN3SlpD1ivNHXmDSNu) 

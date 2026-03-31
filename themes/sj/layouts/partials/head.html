@@ -5,5 +5,5 @@
 
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction)) }}
 {{ $sass := resources.Get "css/main.scss" }}
-{{ $style := $sass | resources.ToCSS $options | resources.Fingerprint "sha512" }}
+{{ $style := $sass | css.Sass $options | resources.Fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" integrity="{{ $style.Data.Integrity }}" />
