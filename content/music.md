@@ -6,6 +6,8 @@ Celtic and traditional Irish fiddle for contra dances. I've fiddled in a bluegra
 played in the pit for musicals, sung in several choirs and directed college a cappella, covered just about every
 instrument in the worship band, and released a few albums of original instrumental compositions.
 
+Check out my latest releases [here](https://linktr.ee/scottjespersenmusic).
+
 A release from 2024:
 
 {{< youtube id="aDUthicVTj4" >}}
