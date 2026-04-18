@@ -8,7 +8,8 @@ title = 'About'
 
 Pianist, violinist, composer, multi-instrumentalist, lover of the outdoors, adherent of degrowth.
 
-Director of Music Ministries at [Epworth UMC](https://www.epworthberkeley.org/).
+Director of Music Ministries at [Epworth UMC](https://www.epworthberkeley.org/). (See previous livestreams
+[here](https://www.youtube.com/@epworthberkeley/streams)).
 
 Former software engineer at Snowflake / [Myst](https://myst.ai/) / Google.
 
