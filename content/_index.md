@@ -11,7 +11,7 @@ Pianist, violinist, composer, multi-instrumentalist, lover of the outdoors, adhe
 Director of Music Ministries at [Epworth UMC](https://www.epworthberkeley.org/). (See previous livestreams
 [here](https://www.youtube.com/@epworthberkeley/streams)).
 
-Former software engineer at Snowflake / [Myst](https://myst.ai/) / Google.
+Former software engineer at Snowflake / Myst AI / Google.
 
 Undergrad at [Pomona College](https://www.pomona.edu/) (music composition, mathematics), 
 masters at Stanford University's [ICME](https://icme.stanford.edu/) (more math).
